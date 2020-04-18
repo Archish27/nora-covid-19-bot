@@ -54,3 +54,853 @@
 - are you a human?
 - am I talking to a bot?
 - am I talking to a human?
+
+## intent:None
+- a wood chuck can't chuck any kind of wood
+- a wood chuck can't chuck wood
+- are you wearing anything?
+- can i arrange a taxi
+- can i book a taxi?
+- can i order a pizza?
+- give quiche a chance
+- how much wood could a wood chuck chuck if a wood chuck would chuck wood?
+- i am heavy weapons guy and this is my weapon
+- i know kung-fu
+- i need a taxi
+- i want a pepperoni pizza
+- i want to order a pizza
+- i'd like a pizza please
+- i'm all out of bubblegum
+- i'm asking you to marry me
+- it's an albany expression
+- marry me
+- now i have a machine gun ho-ho-ho!
+- please marry me
+- tell me what you're wearing?
+- trial by stone!
+- what are you wearing?
+- will you marry me?
+- you come to me on the day of my daughter's wedding
+- you don't win friends with salad
+- you're going to need a bigger boat
+
+## intent:smalltalk_human
+- am a talking with a bot?
+- am i speaking to a bot?
+- am i talking to a bot?
+- am i talking to a human?
+- am i talking to a person?
+- am i talking to a real person?
+- am i talking to a robot?
+- are you a human?
+- are you a real person?
+- are you real?
+- can i contact a human being?
+- i don't want to speak with a bot
+- i don't want to talk
+- i don't want to talk to a chatbot
+- i don't want to talk with a chatbot
+- i'd like to speak to a person
+- is this a person?
+- is this a real person or a bot?
+- who am i talking to?
+- you real?
+
+## intent:faq_distancing
+- am i going into quarantine?
+- are there guidelines for how to self-isolate?
+- can i go for a walk?
+- can i still go outside?
+- can i still travel to work?
+- can i walk somewhere?
+- do i have to avoid going outside?
+- do i have to avoid people?
+- do i have to isolate?
+- do i have to stay away from people?
+- do i have to stay inside?
+- for how long do i need to stay at home?
+- for what reasons can i still go outside?
+- for what reasons can i still travel?
+- how do i avoid people?
+- how do i self isolate
+- how do i socially distance
+- how does quarantine work?
+- how does social distancing work?
+- how far apart should i stay for social distancing?
+- how long do i have to self-isolate for?
+- how long do i have to stay inside
+- how will social distancing help?
+- should i stay away from people?
+- what amount of time do i have to self-isolate for?
+- what are the guidelines for a lockdown?
+- what are the guidelines for isolating?
+- what are the guidelines for social-distancing
+- what counts as essential travel?
+- what do i have to self-isolate for?
+- what does social distancing mean?
+- what essential travel can i still do?
+- what if i want to go for a walk
+- what is essential travel?
+- what is quarantine?
+- what is self-isolation
+- what is social distancing
+- when should i stay in isolation?
+- who doesn't need to stay at home?
+- who needs to stay at home?
+- why do i have to avoid going outside?
+- why do i have to avoid people?
+- why do i have to stay inside?
+- why does social distancing help?
+- why should i isolate
+- why should i quarantine myself?
+- why should most people isolate?
+- will quarantine work?
+
+## intent:faq_symptoms
+- am i going to die?
+- am i going to need hospital treatment?
+- are aches a symptom?
+- are the symptoms serious?
+- can i still have it but have no symptoms?
+- can people die from contacting covid-19?
+- can people die from contracting covid-19?
+- can people die from coronavirus?
+- can people die from this?
+- can there be complications from covid-19 symptoms?
+- can you be infected and not show any symptoms?
+- can you tell me what the symptoms are?
+- could i be carrying coronavirus if i don't have symptoms?
+- does everyone have symptoms?
+- how badly should i be coughing?
+- how can i identify the symptoms of corona?
+- how can i tell if i have corona virus?
+- how do i know i have covid-19?
+- how do i know i might be a carrier?
+- how do i know i might have it?
+- how do i know if i have a high temperature?
+- how do i know if i have it?
+- how do i know if i need hospital treatment?
+- how do i know if i'm a carrier of covid-19?
+- how do i know if i've caught coronavirus?
+- how do i know if i've caught it?
+- how high does my fever have to be for me to go to hospital?
+- how high is a fever?
+- how is your body affected by corona?
+- how long do i have to be sick for before i can go to a clinic?
+- how long should i have a fever for?
+- how severe do my symptoms have to be before i go to hospital?
+- how would my body feel if i caught the virus?
+- i have a fever, do i have corona?
+- i'm coughing, what should i do?
+- is a symptom?
+- is coughing a symptom of the disease?
+- is joint pain a symptom?
+- should i go to a health centre if i have symptoms?
+- what are the signs and symptoms?
+- what are the signs of corona?
+- what are the signs of covid-19?
+- what are the signs?
+- what are the symptoms?
+- what counts as a high temperature?
+- what do aches and pains mean?
+- what do the symptoms look like?
+- what does a high temperature feel like?
+- what does asymptomatic mean?
+- what does dry cough mean?
+- what does having corona feel like?
+- what does having corona virus feel like?
+- what does having the virus feel like?
+- what does it mean if i'm coughing?
+- what does it mean to be asymptomatic?
+- what does persistent cough mean?
+- what does the virus do to your body?
+- what does this virus do to the body?
+- what is a dry cough?
+- what is a fever?
+- what is a high temperatures?
+- what is an asymptomatic carrier?
+- what is different about a dry cough?
+- what should i do if i think i have it?
+- what should i do if i think i might have corona virus?
+- what signs of covid-19 should i look for?
+- what temperature is a fever?
+- when do i need to go to a clinic?
+- when is a cough persistent?
+- when should i go to hospital?
+- when should i go to the emergency room?
+
+## intent:faq_vaccine
+- am i immune once i've been vaccinated?
+- are inoculations available?
+- are they researching vaccines?
+- are they working on vaccines?
+- can covid be cured?
+- can i be vaccinated?
+- can inoculation protect you from coronavirus?
+- can researching make a vaccine?
+- can vaccines protect you from corona?
+- can you be inoculated against the virus?
+- can you be inoculated?
+- can you be vaccinated to protect you from covid-19?
+- can you be vaccinated?
+- can you get vaccinated?
+- how can i be vaccinated?
+- how does vaccine research work
+- how long will it take to develop a vaccine?
+- how long will it take to develop inoculation?
+- how long will it take to research a vaccine?
+- is a vaccine being developed?
+- is there a cure?
+- is there a vaccine against coronavirus?
+- is there si cure for covid-19?
+- what does herd immunity mean?
+- what is herd immunity?
+- what is inoculation?
+- when can we expected a vaccine?
+- when will inoculations be available?
+
+## intent:faq_vulnerable
+- am i more vulnerable if i have cancer?
+- are children at risk of coronavirus?
+- are children vulnerable to corona virus?
+- are my dogs at risk?
+- can cats get the virus?
+- can children get coronavirus?
+- can children get it?
+- can dogs get the virus?
+- can my baby get coronavirus?
+- can my cat get it?
+- can pets get the virus?
+- can your age affect the severity of the illness?
+- can your age affect the severity?
+- does my age matter?
+- does respiratory disease increase my risk?
+- how many years old are those at risk?
+- how old are those likely to have a severe reaction?
+- how what age group is most at risk?
+- i am pregnant, am i at a higher risk?
+- i am years old
+- i am years old, am i at risk?
+- i have asthma, am i more at risk?
+- i'm concerned about my parents
+- i'm pregnant, am i at a higher risk?
+- i'm worried about my grand parents
+- should i be worried about my parents?
+- should i be worried if i'm expecting?
+- what age group is most vulnerable?
+- what age range is most at risk?
+- what are the high risk groups?
+- what are ventilators for?
+- what groups are vulnerable?
+- what if i'm high risk?
+- what if i'm years old?
+- what if someone is diabetic?
+- what people are most likely to experience severe symptoms?
+- who is most at risk of severe symptoms?
+- who is most likely to need hospital treatment?
+- who is most likely to need to go to the hospital?
+- who might need intensive care?
+- who might need ventilators?
+- who should avoid contact during the outbreak?
+- who should avoid contact?
+- who should i avoid contact with during the outbreak?
+- why are older age people more at risk from this illness?
+- why are symptoms more severe depending on how old i am?
+- why are symptoms more severe in some people?
+- why do some people need intensive care?
+- why do we need ventilators?
+- why does age affect the severity?
+- why does my age matter?
+
+## intent:company_open
+- any changes to your services?
+- are there any changes to your operations?
+- are there any changes to your services due to coronavirus?
+- are there any changes to your services?
+- are you open at different times?
+- are you open the same hours?
+- are you operating as normal?
+- are you operating at reduced capacity?
+- are you still open?
+- are you still operating as usual?
+- are you still operating at full capacity?
+- are your offices closed?
+- are your services still available?
+- can i expect coronavirus to cause changes to your service?
+- can i expected business as usual?
+- can i expected normal service?
+- can i still book a meeting?
+- can i use your service with online chat?
+- can i use your service with video chat?
+- do we have to meet virtually?
+- have you closed your offices due to corona virus?
+- have you closed your offices?
+- how are your operating during the covid-19 pandemic?
+- how can i arrange a meeting?
+- how can we meet virtually?
+- is it business as usual?
+- is the company currently active?
+- is the company currently operating?
+- is the office still open?
+- is video chat available?
+- is your office still open?
+- will the office still be open?
+- will you continue operating as usual?
+- will you continue operating?
+- will you continue to work as usual during coronavirus?
+
+## intent:company_wfh
+- are people working from home?
+- are there any key workers?
+- are you in the office?
+- are your people working from home right now?
+- are your staff in the office right now?
+- are your staff in the office?
+- are your staff still working?
+- are your staff working from home?
+- can i contact your staff at the office?
+- can i contact your staff right now?
+- can you work from home if needed?
+- do you have any key workers?
+- do you have people still working?
+- do you have the resources for working from home?
+- do you have the resources to work from home?
+- do you still have key workers?
+- do your staff have the resources to work from home?
+- does your company have the resources to work from home?
+- how can i contact your staff?
+- is anyone still working?
+- where are your staff?
+- who is available for remote meetings?
+- who is available for virtual meetings?
+- who is available to speak to while your office is closed?
+- who is available while staff are working from home?
+- who is available while working from home?
+- who is still working?
+
+## intent:faq_testing
+- are tests available?
+- are there tests to detect corona?
+- can i have a test even if i don't have symptoms?
+- can i have a test if i think i have coronavirus?
+- can i have a test?
+- how are they testing people for covid19?
+- how can i get tested?
+- how do they test for covid-19?
+- how do they test someone for covid-19?
+- how does testing for corona work?
+- how does testing work?
+- i think i have coronavirus, should i get a test?
+- i think i've got it, should i get a test?
+- is there any testing going on?
+- when should i get a test?
+- when will testing be available?
+- where are test available?
+- who are they testing for corona virus right now?
+- who can get tested?
+
+## intent:faq_supplies
+- are the supermarkets going to run out of food?
+- are the supermarkets going to run out of supplies?
+- can i go to the shops for
+- can i go to the shops for that?
+- could there be shortages?
+- do i need to buy anything?
+- do i need to buy more
+- do i need to buy more toilet paper
+- do people need to stockpile?
+- i need to buy
+- i need to buy can i go to the shops for that?
+- i need to buy more
+- i need to buy more medicine
+- i need to buy more soap
+- i'm worried about supply chains
+- should i stockpile?
+- should we be worried about food shortages?
+- what extra supplies to do i need
+- what food should i be stocking up?
+- what if i need more soap?
+- what if i run out of soap and need to buy more?
+- what is panic buying
+- what kind of food should i buy?
+- what should i do if the supermarkets are empty?
+- what should i do if there's a shortage?
+- what should i stock up on?
+- what supplies might there be a shortage of?
+- what supplies should i stock up on?
+- what things should i buy
+- what type of food is good for stocking up?
+- why are people panic-buying?
+- will shortages be a problem?
+- will supply chains be affected
+
+## intent:faq_flu
+- are the symptoms like influenza?
+- how does corona virus compare with a flu outbreak?
+- how does covid-19 compare with influenza?
+- how does it compare to a cold?
+- how is corona different from the flu?
+- how is covid-19 different from the flu
+- how is this different from the flu
+- is corona a flu?
+- is corona the same as swine flu?
+- is coronavirus just a bad cold?
+- is coronavirus like influenza?
+- is covid a kind of influenza?
+- is covid19 a kind of influenza?
+- is covid-19 like swine flu?
+- is it like a cold
+- is the virus a kind of influenza?
+- is this caused by h1n1?
+- is this like the h1n1 outbreak?
+- is this like the spanish flu?
+- is this similar to h1n1?
+- is this similar to swine flu?
+- isn't it just a cold?
+- isn't it just a really bad cold?
+
+## intent:faq_howmany
+- are there a lot of cases right now?
+- does the country have a lot of cases?
+- does the have a lot of cases?
+- have many people died due to covid-19?
+- how many cases have there been
+- how many cases of corona infection have there been?
+- how many deaths have there been?
+- how many fatalities have there been?
+- how many have died due to coronavirus
+- how many have tested positive?
+- how many people have been infected
+- how many people have tested positive
+- number of cases
+- what is the fatality number?
+- what is the fatality rate?
+- what is the number of cases
+- what is the number of deaths
+- what is the number of fatalities?
+- what is the number of infections?
+- what number have tested positive?
+- what number of people have been infected?
+- what number of people have tested positive?
+
+## intent:company_mitigation
+- are you keeping your workers safe?
+- are you paying your staff even if they are unwell?
+- can you tell me your continuity plan?
+- do you have a business continuity plan?
+- do you have a disaster recovery plan?
+- do you have a plan for economic recovery?
+- does the company have a continuity plan for this crisis?
+- how are you going to cope with coronavirus?
+- how are you going to cope with the pandemic?
+- how are you keeping staff safe?
+- how are you protecting your staff?
+- how are you protecting your workers?
+- how does your business plan to recover?
+- how is the company going to cope with covid19?
+- how will you ensure business continuity during the outbreak?
+- how will you manage if people are self-isolating?
+- how will your business recover?
+- is there a continuity plan for coronavirus?
+- is there a continuity plan?
+- is there a disaster recovery plan?
+- what are you doing for business continuity?
+- what are you doing if people are self-isolating?
+- what are you doing if staff are self-isolating?
+- what are you doing if staff are sick?
+- what are you doing if staff are unwell?
+- what are you doing to cope with covid-19?
+- what are you doing to manage corona at your company?
+- what are your mitigation strategies for coronavirus?
+- what are your mitigation strategies?
+- what are your strategies for dealing with coronavirus as a company?
+- what are your strategies for the covid-19 outbreak?
+- what services can you still provide while i'm self-isolating?
+- what will do do if staff are sick?
+- what will you do if staff are unwell?
+- what will you do so the company can recover more quickly?
+- will you business recover?
+
+## intent:company_deliveries
+- are you still able to deliver goods?
+- are you still able to deliver products by post during the pandemic?
+- are you still doing deliveries during the outbreak?
+- can i order online during the covid-19 outbreak?
+- can i order online during the outbreak?
+- can i order your items online?
+- can i order your products online?
+- can i receive deliveries without contact?
+- can you deliver with zero contact?
+- can you do contact-free deliveries?
+- can you do deliveries by zero-contact post?
+- can you send your products in the post?
+- can you sent items by post?
+- can you still deliver goods?
+- do you provide deliveries to people who are isolating?
+- do you provide deliveries?
+- how does covid-19 affect home delivery services?
+- how will coronavirus affect your home delivery?
+- is corona virus affecting your delivery channels?
+- will covid affect your home delivery services?
+
+## intent:faq_masks
+- can a mask protect me?
+- can covering my face protect me?
+- do i need to cover my face?
+- do i need to start covering my face?
+- do mask help?
+- do masks help stop the spread?
+- do masks help to stop covid 19?
+- do masks help to stop the spread of corona?
+- how can a mask help?
+- should i cover my face with a mask?
+- should i cover my face?
+- what is the right kind of mask to use?
+- what kind of mask should i use?
+- what type of face-mask do i need?
+- what type of mask should i use?
+- who needs to use face masks?
+- why are people using face masks?
+- why is everyone wearing face-masks?
+- will a mask protect me from the virus
+- will it help to cover my face?
+
+## intent:faq_timescale
+- can a virus change over time?
+- can covid-19 mutate over time?
+- could coronavirus come back in the winter?
+- could covid19 return in the autumn?
+- could this still be going on next year?
+- how does a pandemic progress?
+- how does a viral outbreak progress?
+- how does an outbreak progress?
+- how long does a pandemic last?
+- how long does it take for a pandemic to end?
+- how long has the pandemic been going on
+- how long has this been going on for?
+- how long will a pandemic last?
+- how long will the be a pandemic?
+- how long will the coronavirus outbreak last?
+- how long will this outbreak last?
+- how many months can we expect this to last?
+- how many months has coronavirus been going on for?
+- how many months will this continue?
+- how many months will this pandemic last?
+- how will covid-19 progress over time?
+- how will the virus change over time?
+- how will the virus mutate?
+- how will things have changes in a year?
+- is a virus better in summer?
+- is corona worse in winter?
+- what will be happening in a months time
+- what will be happening in a week
+- what will happen next year?
+- when can we go back to normal?
+- when will life go back to normal?
+- when will things go back to normal?
+- when will this be over?
+- will corona ever go away?
+- will it get worse again in the autumn?
+- will the outbreak be over soon?
+- will the pandemic last years?
+- will the situation change in a few weeks?
+- will the situation have changed in a month?
+- will the virus go away?
+- will things be different in a month?
+- will things be different next week?
+- will things improve in the spring?
+- will things improve in the summer?
+- will this continue into autumn?
+- will this continue into next winter?
+- will this continue into next year
+
+## intent:faq_spread
+- can coronavirus spread by coughing?
+- can coronavirus survive on skin?
+- can covid get into my eyes?
+- can sneezing spread coronavirus?
+- can you catch corona from an unclean surface?
+- can you catch coronavirus from another person?
+- can you catch the virus from dirty surfaces?
+- could i pass corona virus onto someone else?
+- does coughing spread corona?
+- does coughing spread covid-19?
+- does does a virus spread?
+- how can i avoid covid-19?
+- how can i avoid getting coronavirus?
+- how can i protect myself?
+- how contagious is it?
+- how did corona become so widespread?
+- how did covid-19 become so widespread?
+- how did it become so widespread?
+- how did this disease become so widespread?
+- how do i catch corona?
+- how do viruses become widespread?
+- how do we stop people getting coronavirus?
+- how do we stop people getting it?
+- how do we stop people getting sick?
+- how do you catch coronavirus
+- how do you catch it?
+- how does covid 19 spread?
+- how does covid pass from person to person?
+- how does covid spread from person to person?
+- how does covid-19 spread between between?
+- how does covid-19 spread from one person to another?
+- how does covid-19 spread?
+- how does the virus spread
+- how is it so contagious?
+- how long can the virus remain on surfaces?
+- how long does coronavirus stay on surfaces?
+- how long does it stay on skin?
+- how long does the virus stay on your hands face?
+- how long does the virus stay on your hands?
+- how would i catch the virus from someone else?
+- i want to avoid getting covid, what should i do?
+- is corona virus contagious?
+- is it contagious?
+- is this disease very contagious?
+- what should i do to avoid getting coronavirus?
+- what should i do to avoid getting covid?
+- what should i do to protect myself from catching covid19?
+- what should i do to protect myself?
+- why can't i touch my face with my hands?
+- why do you have to clean surfaces?
+- why is skin-on-skin contact to be avoided?
+- why shouldn't i touch my eyes?
+- why shouldn't i touch my face?
+
+## intent:faq_handwashing
+- can soap help keep the virus off my hands?
+- can soap help with corona virus?
+- do i need to use hand sanitiser?
+- how does hand-sanitiser work?
+- how does soap help keep the virus away?
+- how long should i hand-wash for?
+- how often should i wash my hands
+- how should i wash my hands
+- should i use soap or hand sanitiser?
+- what amount of alcohol is needed in hand gel?
+- what are good methods for handwashing?
+- what are the handwashing techniques
+- what are the hand-washing techniques?
+- what are the instructions for hand-washing
+- what are the techniques for hand washing?
+- what is important about hand-washing?
+- what is the guidance for handwashing
+- what strength percentage of alcohol is required for hand gel to work?
+- when should i wash my hands
+- why do i need to use soap?
+- why do i need to wash my hands
+- why does soap help with containing covid 19?
+
+## intent:faq_curve
+- can we prevent spikes in the infection rate?
+- can we reduce the number of cases?
+- how can you slow the infection?
+- how do we flatten the curve
+- how do we prevent spikes in the number of infected people?
+- how do we reduce the number of cases?
+- how does health care capacity relate to the curve?
+- how does healthcare capacity relate to the curve
+- how fast can it spread?
+- how fast is covid-19 spreading?
+- how quickly can it spread?
+- how quickly could corona virus spread?
+- how quickly could the health service be overwhelmed?
+- how quickly could this get out of control?
+- how quickly is it spreading?
+- how quickly should coronavirus spread?
+- how quickly will it spread?
+- reducing the frequency of cases
+- slow the rate of infection
+- what are spikes
+- what are spikes and why do they happen?
+- what are spikes and why should we try to slow them?
+- what does a spike in cases look like?
+- what does it mean the flatten the curve
+- what happens when there's a surge in cases?
+- what happens when you reduce the number of cases?
+- what is a fast spread?
+- what is a slow spread?
+- what is flattening the curve
+- what is healthcare system capacity
+- what is infection rate
+- what is the curve of cases
+- what is the difference between a fast spread and a slow spread?
+- what is the difference between and fast and slow pandemic?
+- when do spikes in infection rate occur?
+- why are there spikes in the frequency of cases
+- why do infections suddenly spike
+- why do you need to slow the infection
+- why should we try to slow the infection?
+
+## intent:faq_whatisit
+- how are viruses formed?
+- how are viruses structured?
+- how do viruses behave?
+- how do viruses happen?
+- how do viruses work?
+- how does a pandemic work?
+- how does an epidemic work?
+- how does covid work?
+- how is a virus structured?
+- how is the corona virus structured?
+- is covid-19 a virus?
+- what are corona viruses?
+- what are viruses?
+- what do they mean by "pandemic"
+- what do viruses look like?
+- what does "pandemic" mean?
+- what does a virus look like?
+- what does an outbreak mean?
+- what does covid mean?
+- what does covid stand for?
+- what does covid19 mean?
+- what does covid-19 mean?
+- what does covid19 stand for?
+- what does it mean if we have a pandemic?
+- what does it mean if we have an outbreak?
+- what does outbreak mean?
+- what is a pandemic?
+- what is a virus?
+- what is an epidemic?
+- what is corona?
+- what is covid-19
+- what is pandemic
+- what is the corona virus?
+- what is the difference between and epidemic and a pandemic?
+- what is the full name of coronavirus?
+- what is the full name of covid-19?
+- what is the full name of the virus?
+- what is the structure of a virus?
+- what is the structure of coronavirus
+- what kind of disease is corona?
+- what kind of illness is corona virus?
+- why is it called corona virus?
+
+## intent:faq_origin
+- how did it start?
+- how did the covid outbreak start?
+- how did the outbreak start?
+- what caused corona virus?
+- what caused covid-19
+- what caused covid-19 to happen?
+- what caused the corona outbreak?
+- when did it start?
+- when did the outbreak start?
+- when was corona virus detected?
+- when was coronavirus identified?
+- when was it detected?
+- where did it come from?
+- where did the coronavirus come from?
+- where was the virus first detected?
+- why did corona happen?
+- why did this happen?
+
+## synonym:child
+- kid
+- daughter
+- son
+- kids
+- children
+- baby
+- babies
+- daughters
+- sons
+
+## synonym:corona
+- coronavirus
+- covid
+- covid-19
+- covid19
+- covid 19
+- virus
+- viral
+- pandemic
+- epidemic
+- outbreak
+- illness
+- disease
+- viruses
+- infection
+
+## synonym:hospital
+- health centre
+- infirmary
+- medical centre
+- medical institution
+- clinic
+- hospitals
+- health centres
+- infirmaries
+- medical centres
+- medical institutions
+- clinics
+- emergency room
+- emergency
+
+## synonym:illness
+- asthma
+- diabetes
+- asthmatic
+- diabetic
+- hypertension
+- heart
+- heart disease
+- cardiovascular
+- cardiovascular disease
+- respiratory
+- respiratory disease
+- chronic
+- cancer
+- lung
+- lung disease
+- high blood pressure
+- blood pressure
+
+## synonym:pet
+- cat
+- dog
+- rabbit
+- fish
+- hamster
+- rat
+- bird
+- guinea-pig
+- goldfish
+- chicken
+- cats
+- dogs
+- rabbits
+- rats
+- birds
+- guinea-pigs
+- chickens
+- pets
+
+## synonym:pregnancy
+- pregnant
+- expecting
+- trimester
+- with child
+
+## synonym:senior
+- elderly
+- elder
+- older
+- retired
+- old
+- pensioners
+- oaps
+- parents
+- grandparents
+- pensioner
+- seniors
+- elders
+- oap
+- parent
+- grandparent
+- mother
+- father
+- grandmother
+- grandfather

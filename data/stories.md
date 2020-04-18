@@ -29,3 +29,13 @@
 ## bot challenge
 * bot_challenge
   - utter_iamabot
+
+## faq distancing
+* faq_distancing 
+  - action_faq_distancing
+
+## more faq distancing
+* greet
+  - utter_greet
+* faq_distancing 
+  - action_faq_distancing
