@@ -1,3 +1,26 @@
 .vscode
 __pycache__
 venv
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+bot/node_modules
+bot/.pnp
+bot/.pnp.js
+
+# testing
+bot/coverage
+
+# production
+bot/build
+
+# misc
+bot/.DS_Store
+bot/.env.local
+bot/.env.development.local
+bot/.env.test.local
+bot/.env.production.local
+
+bot/npm-debug.log*
+bot/yarn-debug.log*
+bot/yarn-error.log*
