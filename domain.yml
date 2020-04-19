@@ -1,6 +1,7 @@
 intents:
   - greet
   - goodbye
+  - affirm
   - deny
   - mood_great
   - mood_unhappy
@@ -26,42 +27,40 @@ intents:
   - faq_curve
   - faq_whatisit
   - faq_origin
+  - faq_status
 
 responses:
   utter_greet:
-  - text: "Hey! How are you?"
+  - text: "Hey! I'm Nora Covid Bot. How are you feeling?"
 
   utter_cheer_up:
   - text: "Here is something to cheer you up:"
     image: "https://i.imgur.com/nGF1K8f.jpg"
 
   utter_did_that_help:
-  - text: "Did that help you?"
+  - buttons:
+    - payload: /affirm
+      title: 👍
+    - payload: /deny
+      title: 👎
+    text: "Did that help you?"
 
   utter_happy:
-  - text: "Great, carry on!"
+  - text: "Great, carry on! 🙂"
 
   utter_goodbye:
-  - text: "Bye"
+  - text: "Bye 👋"
 
+  utter_sad:
+    - text: "Thanks, I appreciate that, and I'm sorry 😔"
   utter_iamabot:
   - text: "I am a bot, powered by Rasa."
-  
-  utter_faq_distancing:
-  - text:  "Social distancing, also called “physical distancing,” means keeping space between yourself and other people outside of your home. To practice social or physical distancing:
-
-          *   Stay at least 6 feet (2 meters) from other people\
-          *   Do not gather in groups\
-          *   Stay out of crowded places and avoid mass gatherings\
-
-          In addition to [everyday steps to prevent COVID-19](https://cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html), keeping space between you and others is one of the best tools we have to avoid being exposed to this virus and slowing its spread locally and across the country and world.\
-
-          When COVID-19 is spreading in your area, everyone should limit close contact with individuals outside your household in indoor and outdoor spaces. Since people can spread the virus before they know they are sick, it is important to stay away from others when possible, even if you have no symptoms.\
-          Social distancing is especially important for [people who are at higher risk of getting very sick](https://cdc.gov/coronavirus/2019-ncov/need-extra-precautions/people-at-higher-risk.html).\
-          ![two people with masks on 6 feet apart](https://cdc.gov/coronavirus/2019-ncov/images/COVIDweb_avoidCloseContact_masks_rect-01.png)"
-    
+          
 actions:
 - action_faq_distancing
+- action_faq_spread
+- action_faq_status
+- action_faq_symptoms
 
     
 session_config:
