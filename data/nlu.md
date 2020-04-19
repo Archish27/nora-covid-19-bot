@@ -1,4 +1,4 @@
-## intent:greet
+q## intent:greet
 - hey
 - hello
 - hi
@@ -228,6 +228,9 @@
 - when is a cough persistent?
 - when should i go to hospital?
 - when should i go to the emergency room?
+- What Happens If i get  Coronavirus?
+- What does Coronavirus do?
+- How does human body behave if i get coronavirus?
 
 ## intent:faq_vaccine
 - am i immune once i've been vaccinated?
@@ -668,6 +671,7 @@
 - why is skin-on-skin contact to be avoided?
 - why shouldn't i touch my eyes?
 - why shouldn't i touch my face?
+- what happens if i get corona
 
 ## intent:faq_handwashing
 - can soap help keep the virus off my hands?
@@ -796,6 +800,21 @@
 - where was the virus first detected?
 - why did corona happen?
 - why did this happen?
+
+## intent:faq_status
+ - what is the current status
+ - give me live count
+ - live counter
+ - world map counter
+ - how many are confirmed cases
+ - how many deaths till now
+ - give me real time status updates
+ - how many have recovered cases
+ - give me live stats of corona
+ - show me graph of current situation
+ - give me live information 
+ - live news of corona
+ - latest stats updates for corona
 
 ## synonym:child
 - kid
