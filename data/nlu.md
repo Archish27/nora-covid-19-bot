@@ -1,4 +1,4 @@
-q## intent:greet
+## intent:greet
 - hey
 - hello
 - hi
