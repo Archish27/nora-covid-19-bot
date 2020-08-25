@@ -111,6 +111,10 @@ Python virtual environments are used to isolate package installation from the sy
 
 > Note: Run this in virtual environment. If issues regarding installing raise issues.
 
+## How to train bot
+
+`rasa train`
+
 ## How to run Nora bot
 
 ### Rasa Server
