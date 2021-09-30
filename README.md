@@ -2,19 +2,32 @@
 
 # Nora Bot - Covid-19
 
-Corona Virus Self Awarness Bot that addresses typical questions about the COVID-19 virus to help you to know about corona virus. It provides awarness about Covid-19 social distancing, self isolation, quarantine.
+Corona Virus Self Awareness Bot that addresses typical questions about the COVID-19 virus to help you to know about corona virus. It provides awarness about Covid-19 social distancing, self isolation, quarantine.
 
-## How to install rasa
+## ✨ How to contribute
+--------
 
-#### 1. Install the Python development environment on your system
+I am very happy to receive and merge your contributions into this repository!
 
-> Requires Python 3.6–3.7.7 and pip >= 19.0
+To contribute via pull request, follow these steps:
+
+1. Create an issue describing the feature you want to work on (or
+   have a look at the [issues](https://github.com/browserstack/ws-reconnect-proxy/issues))
+2. Write your code
+3. Create a pull request describing your changes
+
+Your pull request will be reviewed by me, will get back to you about any necessary changes or questions.
+
+## ⚡️ Development Internals
+----------
+### 🔨 1. Install the Python development environment on your system 
 
 ```shell
 python3 --version
 pip3 --version
 virtualenv --version1
 ```
+> Requires Python 3.6–3.7.7 and pip >= 19.0
 
 If these packages are already installed, skip to the next step.\
 Otherwise, install Python, the pip package manager, and Virtualenv:
@@ -30,32 +43,29 @@ Otherwise, install Python, the pip package manager, and Virtualenv:
 Install the 64-bit [Python 3 release for Windows](https://www.python.org/downloads/windows/) (select pip as an optional feature).
 
 - **mac OS**
-
-Install using the [Homebrew](https://brew.sh/) package manager:
-
-```shell
-$ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-$ export PATH="/usr/local/bin:/usr/local/sbin:\$PATH"
-$ brew update
-$ brew install python # Python 3
-$ sudo pip3 install -U virtualenv # system-wide install
-```
+  - Install using the [Homebrew](https://brew.sh/) package manager:
+  ```shell
+    $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+    $ export PATH="/usr/local/bin:/usr/local/sbin:\$PATH"
+    $ brew update
+    $ brew install python # Python 3
+    $ sudo pip3 install -U virtualenv # system-wide install
+  ```
 
 - **Ubuntu**
 
-```shell
-$ sudo apt update
-$ sudo apt install python3-dev python3-pip
-$ sudo pip3 install -U virtualenv # system-wide install
+  ```shell
+  $ sudo apt update
+  $ sudo apt install python3-dev python3-pip
+  $ sudo pip3 install -U virtualenv # system-wide install
+  ```
+
+```
+pip3 install -U pip virtualenv
 ```
 
-###**`pip3 install -U pip virtualenv`**
 
-> Prefer v3.6 / v3.7.7
-> Caution: Upgrading the system pip can cause problems.
-> If not in a virtual environment, use python3 -m pip for the commands below. This ensures that you upgrade and use the Python pip instead of the system pip.
-
-#### 2. Create a virtual environment (recommended)
+### 🔧 2. Create a virtual environment (recommended) 
 
 Python virtual environments are used to isolate package installation from the system.
 
@@ -103,7 +113,7 @@ Python virtual environments are used to isolate package installation from the sy
       deactivate # don't exit until you're done using TensorFlow
     ```
 
-#### 3. Install Rasa
+### 🚀 3. Project Setup 
 
 ```shell
 (venv) $ pip install rasa
@@ -111,11 +121,11 @@ Python virtual environments are used to isolate package installation from the sy
 
 > Note: Run this in virtual environment. If issues regarding installing raise issues.
 
-## How to train bot
+## 🧠 How to train bot
 
 `rasa train`
 
-## How to run Nora bot
+## ✅ How to run Nora bot
 
 ### Rasa Server
 
@@ -134,3 +144,5 @@ Python virtual environments are used to isolate package installation from the sy
 `npm run start`
 
 > [http://localhost:3000/](http://localhost:/3000)
+
+#  👩‍💻  !Happy Coding! 🧑‍💻
