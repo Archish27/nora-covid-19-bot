@@ -9,6 +9,8 @@ Corona Virus Self Awareness Bot that addresses typical questions about the COVID
 
 I am very happy to receive and merge your contributions into this repository!
 
+Please first read the [Contribution guide](CONTRIBUTING.md).
+
 To contribute via pull request, follow these steps:
 
 1. Create an issue describing the feature you want to work on (or
