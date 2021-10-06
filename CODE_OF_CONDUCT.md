@@ -1,4 +1,4 @@
-# Code of Conduct - Nora Bot - Covid-19
+# Code of Conduct - Nora  Covid-19 Bot
 
 ## Our Pledge
 
