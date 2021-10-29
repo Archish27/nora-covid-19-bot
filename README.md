@@ -1,11 +1,11 @@
-<img src="./logo-white.png" alt="Nora Bot"><br>
+<img src="./logo-white.png" alt="Nora Bot" width=20%>
 
 # Nora Bot - Covid-19
 
-Corona Virus Self Awareness Bot that addresses typical questions about the COVID-19 virus to help you to know about corona virus. It provides awarness about Covid-19 social distancing, self isolation, quarantine.
+Corona Virus Self Awareness Bot that addresses typical questions about the COVID-19 virus to help you to know about corona virus. It provides awarness about Covid-19 social distancing, self isolation, quarantine.<br><br><br>
+
 
 ## ✨ How to contribute
---------
 
 I am very happy to receive and merge your contributions into this repository!
 
@@ -18,10 +18,10 @@ To contribute via pull request, follow these steps:
 2. Write your code
 3. Create a pull request describing your changes
 
-Your pull request will be reviewed by me, will get back to you about any necessary changes or questions.
+Your pull request will be reviewed by me, will get back to you about any necessary changes or questions.<br><br><br>
+
 
 ## ⚡️ Development Internals
-----------
 ### 🔨 1. Install the Python development environment on your system 
 
 ```shell
@@ -123,10 +123,13 @@ Python virtual environments are used to isolate package installation from the sy
 
 > Note: Run this in virtual environment. If issues regarding installing raise issues.
 
+
+<br><br>
 ## 🧠 How to train bot
 
 `rasa train`
 
+<br><br>
 ## ✅ How to run Nora bot
 
 ### Rasa Server
@@ -147,4 +150,6 @@ Python virtual environments are used to isolate package installation from the sy
 
 > [http://localhost:3000/](http://localhost:/3000)
 
+
+<br><br>
 #  👩‍💻  !Happy Coding! 🧑‍💻
