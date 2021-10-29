@@ -1,4 +1,4 @@
-![Nora Bot](./logo-white.png)
+<img src="./logo-white.png" alt="Nora Bot"><br>
 
 # Nora Bot - Covid-19
 
